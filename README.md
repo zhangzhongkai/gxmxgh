@@ -1,2 +1,2 @@
 # gxmxgh
-genxiaomuxuegithub
+genxiaomuxuegithub这个主要是跟着若小沐学习GitHub的一些流程，让自己能够完成这个东西。
